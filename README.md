@@ -1,5 +1,8 @@
 # Text-Mining-on-Customer-Satisfaction-
 
+## **Tools Used**
+IBM SPSS Modeler, Excel
+
 ## **Project Overview**
 This project applies text mining techniques to analyse passenger reviews for Air India. The objective is to uncover key sentiments and themes that influence customer satisfaction and identify areas for service quality improvement
 
