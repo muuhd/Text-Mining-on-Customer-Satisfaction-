@@ -1,4 +1,4 @@
-# Text-Mining-on-Customer-Satisfaction-
+# Text-Mining-on-Customer-Satisfaction
 
 ## **Tools Used**
 IBM SPSS Modeler, Excel
