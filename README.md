@@ -40,7 +40,6 @@ Top 2 Weaknesses of Air India
 Recommendations
 
 1. Building on their strengths
-   -  Leverage their talent in flight meals by maintaining/improving the quality of food
    -  They could consider collaborating with renowned local chefs to enhance the dining experience on board
    -  Air India could also implement a reward system for the best flight crew to incentivise/recognise good service
 
@@ -48,7 +47,6 @@ Recommendations
 3. Addressing weaknesses:
    -  Routine maintenance on cleanliness and in-flight amenities to ensure equipment is in working condition before flights
    -  Compulsory workshops for conflict resolution and communication to be attended by staff, with simulations to better prepare them in engaging passengers
-   -  Air India could also explore a "Mystery Shopper" experiment where upper management staff travel anonymously to assess the service provided on the ground
    
 ## **Limitations of analysis**
 - Small sample size may not be fully representative of the entirety of Air India reviews
